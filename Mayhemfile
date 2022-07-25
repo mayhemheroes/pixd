@@ -2,4 +2,4 @@ project: pixd
 target: pixd
 
 cmds:
-  - cmd: /repo/pixd @@
+  - cmd: /install/usr/local/bin/pixd @@
